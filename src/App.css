@@ -56,7 +56,7 @@ body {
   font-size: large;
   font-weight: 700;
   display: inline-block;
-  vertical-align: auto;
+  vertical-align: middle;
   margin: 3rem;
   border-radius: 0.5rem;
 }
