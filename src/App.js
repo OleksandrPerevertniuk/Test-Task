@@ -29,7 +29,7 @@ function App() {
 
   const handleComputerMove = (updatedRemainingMatches) => {
     if (gameOver) return;
-    let matchesTaken; //inverse matchesTaken 3 and 2 if mode 2
+    let matchesTaken;
     if (updatedRemainingMatches % 4 === 0) {
       matchesTaken = 3;
     } else if (updatedRemainingMatches % 4 === 1 || 2) {
