@@ -35,13 +35,13 @@ body {
 }
 
 .square {
-  height: 20rem;
-  width: 20rem;
+  height: 18rem;
+  width: 18rem;
   background-color: #282c34;
   display: inline-block;
   vertical-align: middle;
   padding: 1rem 1rem;
-  margin: 8rem;
+  margin: 2rem;
 }
 
 .avatar {
