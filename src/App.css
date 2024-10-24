@@ -1,0 +1,62 @@
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container {
+  text-align: center;
+  padding: 2rem;
+  margin: 1rem;
+}
+
+.square {
+  height: 20rem;
+  width: 20rem;
+  background-color: #282c34;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1rem 1rem;
+  margin: 8rem;
+}
+
+.avatar {
+  font-size: 6em;
+}
+
+.btn {
+  width: 8rem;
+  height: 4rem;
+  background-color: #61dafb;
+  color: #282c34;
+  font-size: large;
+  font-weight: 700;
+  display: inline-block;
+  vertical-align: auto;
+  margin: 3rem;
+  border-radius: 0.5rem;
+}
